@@ -1,0 +1,21 @@
+modLoader = "javafml"
+loaderVersion = "[40,)"
+# issueTrackerURL = ""
+license = "GNU LGPLv3"
+
+[[mods]]
+modId = "kubejs_extra_blocks"
+version = "${version}"
+displayName = "KubeJS Extra Blocks"
+authors = "artemisSystem"
+description = '''
+Extra block types for KubeJS
+'''
+license = "GNU LGPLv3"
+
+[[dependencies.kubejs_extra_blocks]]
+modId = "kubejs"
+mandatory = true
+versionRange = "[1802.5.1-build.331,)"
+ordering = "AFTER"
+side = "BOTH"

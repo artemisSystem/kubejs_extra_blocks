@@ -1,0 +1,22 @@
+{
+	"schemaVersion": 1,
+	"id": "kubejs_extra_blocks",
+	"version": "${version}",
+	"name": "KubeJS Extra Blocks",
+	"description": "Extra block types for KubeJS",
+	"authors": [
+		"artemisSystem"
+	],
+	"contact": {
+	},
+	"license": "GNU LGPLv3",
+	"entrypoints": {
+		"main": [
+			"artemis.kubejs.extra_blocks.KubeJSExtraBlocks::init"
+		]
+	},
+	"depends": {
+		"minecraft": ">=1.18.2",
+		"kubejs": ">=1802.5.1-build.331"
+	}
+}
