@@ -1,1 +1,1 @@
-KubeJSExtraBlocksPlugin
+artemis.kubejs.extra_blocks.KubeJSExtraBlocksPlugin
