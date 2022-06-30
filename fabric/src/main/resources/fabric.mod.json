@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "kubejs_extra_blocks",
+	"id": "kubejs-extra-blocks",
 	"version": "${version}",
 	"name": "KubeJS Extra Blocks",
 	"description": "Extra block types for KubeJS",

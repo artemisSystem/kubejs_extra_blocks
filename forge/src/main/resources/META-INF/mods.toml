@@ -4,7 +4,7 @@ loaderVersion = "[40,)"
 license = "GNU LGPLv3"
 
 [[mods]]
-modId = "kubejs_extra_blocks"
+modId = "kubejs-extra-blocks"
 version = "${version}"
 displayName = "KubeJS Extra Blocks"
 authors = "artemisSystem"
@@ -13,7 +13,7 @@ Extra block types for KubeJS
 '''
 license = "GNU LGPLv3"
 
-[[dependencies.kubejs_extra_blocks]]
+[[dependencies.kubejs-extra-blocks]]
 modId = "kubejs"
 mandatory = true
 versionRange = "[1802.5.1-build.331,)"
